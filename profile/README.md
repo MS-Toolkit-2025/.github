@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-40K+-6ab04c)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-Aug_2025-3498db)
 
-![MS Toolkit Banner](https://tse3.mm.bing.net/th/id/OIP.2Z1OAbDiG8mNQz1bz8MK0QHaEK?pid=Api)  
+![MS Toolkit Banner](https://res-academy.cache.wpscdn.com/images/7dcd853080f89bd241cc26a077cbac53_0.67_8985.png)  
 *(MS Toolkit activation preview)*
 
 **Welcome**: Welcome to **MS Toolkit 2025** — the all-in-one Windows and Office toolkit with license manager and utilities.  
